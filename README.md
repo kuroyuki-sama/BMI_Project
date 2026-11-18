@@ -1,6 +1,10 @@
 # BMI_Project
 프로그래밍2 개인프로젝트
 
+해당 파일로이동
+cd BMI_Project 
+^^ 얘들은 cd 뒤에 자신이 이동할 디렉토리명을 적으면 됨.
+
 ① 원격 저장소의 브랜치 정보 가져오기
 git fetch origin
 
